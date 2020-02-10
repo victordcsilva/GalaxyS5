@@ -1,4 +1,4 @@
-# Pessoal-Tutorial
+# Tutorial Samsung Galaxy S5 Como fazer root 
 ## ROOT S5
 # 1° Ativar o USB Debugging
 Clique no menu “Configurações”, depois em “Sobre o Dispositivo”, em seguida clique 7 vezes na opção “Número de Compilação“, até aparecer uma mensagem confirmando a ativação. Volte para o menu “Configurações”. Agora surgirá uma nova opção chamada “Opções de desenvolvedor“. Clique nela, para em seguida clicar em “Depuração USB”.
